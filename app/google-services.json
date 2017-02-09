@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "435284758617",
+    "firebase_url": "https://leafy-firmament-148908.firebaseio.com",
+    "project_id": "leafy-firmament-148908",
+    "storage_bucket": "leafy-firmament-148908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435284758617:android:12ca229f2dcebaf3",
+        "android_client_info": {
+          "package_name": "com.example.abuosama.firebasechatapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435284758617-5r3l593sakajkajf8nrn3nkmk31lo2t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8K9ymywTmPyDtUBmTx_7jnN_f2I9Vjt8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
